@@ -6,9 +6,7 @@
 - Overview
 - Architecture
 - Features
-- Technical Implementation
 - Security
-- Cost Optimization
 - Deployment
 - Testing
 
