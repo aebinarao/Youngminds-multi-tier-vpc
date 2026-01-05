@@ -338,15 +338,14 @@ Anthonie Elizaldy Binarao
 ***
 **Note:**
 
-*The files stored inside the S3 bucket was my Final packet tracer project for the Network Engineering 1 class way back in college.
-We were tasked to create a network topology of a hypothetical company named "Youngminds". So I referenced the hypothetical company in this cloud networking project.
-This personal cloud networking project is beyond the scope of Network Enginneering 1 in our Computer Science class and cloud computing was not taught in our curriculum, 
+*The files stored inside the S3 bucket were my final packet tracer project for the Network Engineering 1 class way back in college.
+We were tasked to create a network topology of a hypothetical company named "Youngminds." So I referenced the hypothetical company in this cloud networking project.
+This personal cloud networking project exceeds the scope of Network Engineering 1 in our computer science class, as cloud computing was not taught in our curriculum. 
 I built this project through self-study by exploring official documentation and applying my foundational networking knowledge from the CCNA course.
-
 I recognize that there are still areas for improvement, as I am continuously learning cloud and advanced networking concepts. This project reflects my willingness to learn, experiment, and apply new technologies beyond what was required in class.
 
 
 
 
 
-This project was done for approximately 5 hours (including testing of components)
+
