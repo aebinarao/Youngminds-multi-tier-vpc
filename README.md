@@ -305,10 +305,45 @@ Test if Private instance Web app server can connect to S3 bucket:
 
 - This means we can connect through different availability zones
 
+***
+**🛠️TECHNOLOGIES USED**
 
-*The files inside the S3 bucket was my Final packet tracer project in my Network Engineering 1 class
-We were tasked to create a network topology of a hypothetical company named "Youngminds".
+- Cloud Provider: Amazon Web Services (AWS)
+- Networking: VPC, Subnets, Route Tables, NAT Gateway, Internet Gateway
+- Security: Security Groups, VPC Flow Logs, IAM Roles
+- Compute: EC2 (t2.micro instances)
+- Storage: S3 with Gateway Endpoint
+- Monitoring: CloudWatch Logs
+- Infrastructure as Code: Terraform
+- Version Control: Git, GitHub
 
+***
+👤 About the Author
+
+Anthonie Elizaldy Binarao
+
+- 📧 Email: aebinarao24@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/anthonie-binarao/)
+- 🌐 Portfolio: yourwebsite.com
+- 🎓 Certifications: CCNA Full Course, AWS Cloud Practitioner Essentials
+
+***
+🙏 Acknowledgments
+
+- AWS Documentation and Best Practices guides
+- CCNA training for foundational networking concepts
+- AWS Community for troubleshooting assistance
+- Terraform documentation and examples
+
+***
+**Note:**
+
+*The files stored inside the S3 bucket was my Final packet tracer project for the Network Engineering 1 class way back in college.
+We were tasked to create a network topology of a hypothetical company named "Youngminds". So I referenced the hypothetical company in this cloud networking project.
+This personal cloud networking project is beyond the scope of Network Enginneering 1 in our Computer Science class and cloud computing was not taught in our curriculum, 
+I built this project through self-study by exploring official documentation and applying my foundational networking knowledge from the CCNA course.
+
+I recognize that there are still areas for improvement, as I am continuously learning cloud and advanced networking concepts. This project reflects my willingness to learn, experiment, and apply new technologies beyond what was required in class.
 
 
 
