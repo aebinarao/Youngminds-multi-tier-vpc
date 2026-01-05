@@ -274,6 +274,15 @@ Test if Private instance Web app server can connect to S3 bucket:
   <img src="/images/test2.png" width="1000" />
 </p>
 
+- Test if we can SSH from bastion host az-1a to web app server az1-a
+- Test if we can access S3 Bucket from web app server az-1a
+- Test if we can access google from the web app server
+
+<p align="center">
+  <img src="/images/test3.png" width="1000" />
+</p>
+
+
 *The files inside the S3 bucket was my Final packet tracer project in my Network Engineering 1 class
 We were tasked to create a network topology of a hypothetical company named "Youngminds".
 
