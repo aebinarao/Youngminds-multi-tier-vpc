@@ -261,6 +261,15 @@ Outbound:
 ***
 **TESTING**
 
+Some snapshots
+
+10.0.1.25 - Bastion host (Public Instance) - AZ1a
+10.0.2.56 - Web app server (Private Instance) - AZ1a
+
+10.0.10.42 - Bastion host (Public Instance) - AZ1b
+10.0.20.73 - Web app server (Private Instance) - AZ1b
+
+
 Test if Private instance Web app server can connect to S3 bucket:
 
 <p align="center">
@@ -281,6 +290,20 @@ Test if Private instance Web app server can connect to S3 bucket:
 <p align="center">
   <img src="/images/test3.png" width="1000" />
 </p>
+
+- Test SSH from bastion host in az-1b to web app server private instance in az-1a:
+
+<p align="center">
+  <img src="/images/test4.png" width="1000" />
+</p>
+
+- Test if we can connect to s3 bucket using the web app server in AZ-1a:
+
+<p align="center">
+  <img src="/images/test5.png" width="1000" />
+</p>
+
+- This means we can connect through different availability zones
 
 
 *The files inside the S3 bucket was my Final packet tracer project in my Network Engineering 1 class
