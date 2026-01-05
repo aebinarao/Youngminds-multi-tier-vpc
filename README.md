@@ -1,5 +1,4 @@
-# Youngminds-multi-tier-vpc
-Youngminds AWS Multi-tier VPC Architecture
+# Youngminds AWS Multi-tier VPC Architecture
 
 
 📋 Table of Contents
