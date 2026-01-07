@@ -1,4 +1,4 @@
-# Youngminds AWS Multi-tier VPC Architecture
+# Cloud Network Multi-Tier Architecture for Youngminds
 
 
 📋 Table of Contents
