@@ -1,4 +1,4 @@
-# Cloud Network Multi-Tier Architecture for Youngminds
+# Multi-Tier VPC Architecture for Youngminds
 
 
 📋 Table of Contents
