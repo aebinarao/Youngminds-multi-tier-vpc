@@ -321,7 +321,7 @@ Test if Private instance Web app server can connect to S3 bucket:
 Anthonie Elizaldy Binarao
 
 - 📧 Email: hechanovanton@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/anthonie-binarao/)
+- 💼 LinkedIn: [linkedin.com/in/anthonie-binarao](https://www.linkedin.com/in/anthonie-binarao/)
 - 🌐 Portfolio: yourwebsite.com
 - 🎓 Certifications: CCNA Full Course, AWS Cloud Practitioner Essentials
 
